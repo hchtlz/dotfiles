@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = chantelauzehugo@gmail.com
+	name = hugo chantelauze
